@@ -12,7 +12,7 @@ export const calculateSchedule = (orm, liftType) => {
         { percentage: 65, reps: '5', setCount: 1 },
         { percentage: 75, reps: '5', setCount: 1 },
         { percentage: 85, reps: '5+', setCount: 1 },
-        { percentage: 65, reps: '8+', setCount: 5 }
+        { percentage: 65, reps: '8+', setCount: 2 }
       ]
     },
     {
@@ -21,7 +21,7 @@ export const calculateSchedule = (orm, liftType) => {
         { percentage: 70, reps: '3', setCount: 1 },
         { percentage: 80, reps: '3', setCount: 1 },
         { percentage: 90, reps: '3+', setCount: 1 },
-        { percentage: 70, reps: '8+', setCount: 3 }
+        { percentage: 70, reps: '8+', setCount: 2 }
       ]
     },
     {
@@ -30,7 +30,7 @@ export const calculateSchedule = (orm, liftType) => {
         { percentage: 75, reps: '5', setCount: 1 },
         { percentage: 85, reps: '3', setCount: 1 },
         { percentage: 95, reps: '1+', setCount: 1 },
-        { percentage: 70, reps: '8+', setCount: 4 }
+        { percentage: 70, reps: '8+', setCount: 2 }
       ]
     }
   ];
